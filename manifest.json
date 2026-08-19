@@ -1,0 +1,9 @@
+{
+  "name": "Spanisch Lernapp",
+  "short_name": "Spanisch",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F7FC",
+  "theme_color": "#5B4BF5",
+  "orientation": "portrait"
+}
